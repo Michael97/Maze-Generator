@@ -1,0 +1,1 @@
+Press M to generate a new map

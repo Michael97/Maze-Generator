@@ -89,20 +89,8 @@
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
-    <Compile Include="Assets\Scripts\AttackScript.cs" />
-    <Compile Include="Assets\Scripts\CameraScript.cs" />
-    <Compile Include="Assets\Scripts\ClickToMove.cs" />
-    <Compile Include="Assets\Scripts\Entity.cs" />
-    <Compile Include="Assets\Scripts\Key.cs" />
     <Compile Include="Assets\Scripts\Node.cs" />
-    <Compile Include="Assets\Scripts\Patrol.cs" />
-    <Compile Include="Assets\Scripts\PlayerShootScript.cs" />
-    <Compile Include="Assets\Scripts\Portal.cs" />
-    <Compile Include="Assets\Scripts\RandomWalk.cs" />
     <Compile Include="Assets\Scripts\RecursiveBacktracker.cs" />
-    <Compile Include="Assets\Scripts\ShootScript.cs" />
-    <Compile Include="Assets\Scripts\TileTypes.cs" />
-    <Compile Include="Assets\Scripts\TinyKeep.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
